@@ -1,5 +1,4 @@
-//Riscrivere l'esercizio 1.2 usando gli array, 
-//con lunghezza in cifre del numero variabile;
+// riscrivere l'es 1.2 con gli array
 /*
 SUP che dato un numero intero e un numero indice, individua la cifra alla posizione indice del primo
 numero inserito. Esempio: 39842, indice 2 (decine) = 4 decine. Farsi stampare solo la cifra, non serve il
